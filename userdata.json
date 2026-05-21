@@ -3,7 +3,7 @@
         "device_id": "56e6d43ef59954c5",
         "key": "appolotestingkey",
         "expirydate": "23-5-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
