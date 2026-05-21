@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "56e6d43ef59954c5",
+        "device_id": "device888",
         "key": "key7588",
         "expirydate": "23-5-2026",
         "Allowoffline": false
@@ -9,6 +9,12 @@
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2021",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "56e6d43ef59954c5",
+        "key": "mykey9588",
+        "expirydate": "23-05-2026",
         "Allowoffline": false
     }
 ]
